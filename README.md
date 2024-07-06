@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Numbers Challenge** is a simple, interactive math game built with Python and PyQt5.This game is designed to level up mathematical and quick response skills for people of all ages. The game involves basic arithmetic problems where the player needs to identify the correct answers from multiple choices. The game tracks the player's score and the number of misses. When the player reaches 10 misses, the game ends and displays the final score and miss count.
+**Numbers Challenge** is a simple, interactive math game built with Python and PyQt5. This game is designed to level up mathematical and quick response skills for people of all ages. The game involves basic arithmetic problems where the player needs to identify the correct answers from multiple choices. The game tracks the player's score and the number of misses. When the player reaches 10 misses, the game ends and displays the final score and miss count.
 
 ## Features
 - User login to start the game
