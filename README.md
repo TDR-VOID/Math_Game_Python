@@ -13,18 +13,13 @@ Maths Game is a simple, interactive math game built with Python and PyQt5. The g
 - Option to play again after the game ends
 
 ## How to Play
-1. Start the Game
+1. **Start the Game**: Enter your name and click "Login" to start the game.
 
-Enter your name and click "Login" to start the game.
+2. **Answer Questions**: Solve the math problems by clicking the correct answer button. The timer for each question is set to 10 seconds.
 
-3. Answer Questions
-Solve the math problems by clicking the correct answer button. The timer for each question is set to 10 seconds.
+3. **Track Your Score**:Your score and misses are displayed on the screen. The game ends when you reach 10 misses.
 
-4. Track Your Score
-Your score and misses are displayed on the screen. The game ends when you reach 10 misses.
-
-5. Game Over
-When the game ends, the final score and miss count are displayed along with a "Play Again" button to restart the game.
+4. **Game Over**: When the game ends, the final score and miss count are displayed along with a "Play Again" button to restart the game.
 
 
 ## Contributing
