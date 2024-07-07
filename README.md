@@ -22,7 +22,50 @@
 4. **Game Over** : When the game ends, the final score and miss count are displayed along with a "Play Again" button to restart the game.
 
 ## Screenshots
+<details>
+<summary>Login & Game Over</summary>
+<img src="Screenshots/Login.png" alt="Login" width="380" />
+<img src="Screenshots/Game_Over.png" alt="Game Over" width="380" />
+</details>
 
+<details>
+<summary>Game Session</summary>
+<img src="Screenshots/Game_Session_1.png" alt="Game Session 1" width="380" />
+<img src="Screenshots/Game_Session_2.png" alt="Game Session 2" width="380" />
+</details>
+
+<details>
+<summary> Name Validation</summary>
+<img src="Screenshots/Validation_1.png" alt="Validation 1" width="380" />
+<img src="Screenshots/Validation_2.png" alt="Validation 2" width="380" />
+</details>
+
+## How to Run
+To run this game on your local machine, follow these steps:
+
+<br>
+
+1. Clone the Repository: First, clone the repository to your local machine using Git.
+
+```bash
+git clone https://github.com/TDR-VOID/Math_Game_Python.git
+cd Math_Game_Python
+```
+
+2. Install Jupyter Notebook: If you don't have Jupyter Notebook installed, you can install it using pip.
+```bash
+pip install notebook
+```
+
+3. Install PyQt5: Install the required PyQt5 package using pip.
+```bash
+pip install PyQt5
+```
+
+4. Run the Game: Use your preferred IDE to open and run the project. If you are using Jupyter Notebook, you can open the notebook file:
+```bash
+jupyter notebook
+```
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
