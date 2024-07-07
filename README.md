@@ -21,6 +21,8 @@
 
 4. **Game Over** : When the game ends, the final score and miss count are displayed along with a "Play Again" button to restart the game.
 
+## Screenshots
+
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
