@@ -42,11 +42,27 @@
 
 ## How to Run
 To run this game on your local machine, follow these steps:
+
 <br>
 1. Clone the Repository: First, clone the repository to your local machine using Git.
 ```
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+
+2. Install Jupyter Notebook: If you don't have Jupyter Notebook installed, you can install it using pip.
+```
+pip install notebook
+```
+
+3. Install PyQt5: Install the required PyQt5 package using pip.
+```
+pip install PyQt5
+```
+
+4. Run the Game: Use your preferred IDE to open and run the project. If you are using Jupyter Notebook, you can open the notebook file:
+```
+jupyter notebook
 ```
 
 ## Contributing
