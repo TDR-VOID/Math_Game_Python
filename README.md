@@ -42,7 +42,7 @@
 
 ## How to Run
 To run this game on your local machine, follow these steps:
-
+<br>
 1. Clone the Repository: First, clone the repository to your local machine using Git.
 ```
 git clone https://github.com/your-username/your-repo-name.git
