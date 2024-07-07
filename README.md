@@ -44,10 +44,10 @@
 To run this game on your local machine, follow these steps:
 
 1. Clone the Repository: First, clone the repository to your local machine using Git.
-  '''
+```
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-'''
+```
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
