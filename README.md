@@ -22,7 +22,11 @@
 4. **Game Over** : When the game ends, the final score and miss count are displayed along with a "Play Again" button to restart the game.
 
 ## Screenshots
-
+<details>
+<summary>Login & Game Over</summary>
+<img src="Screenshots/Login.png" alt="Login" width="300" />
+<img src="Screenshots/Game_Over.png" alt="Game Over" width="300" />
+</details>
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
