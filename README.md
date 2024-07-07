@@ -48,8 +48,8 @@ To run this game on your local machine, follow these steps:
 1. Clone the Repository: First, clone the repository to your local machine using Git.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/TDR-VOID/Math_Game_Python.git
+cd Math_Game_Python
 ```
 
 2. Install Jupyter Notebook: If you don't have Jupyter Notebook installed, you can install it using pip.
