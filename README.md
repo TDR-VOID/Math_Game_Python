@@ -28,6 +28,18 @@
 <img src="Screenshots/Game_Over.png" alt="Game Over" width="300" />
 </details>
 
+<details>
+<summary>Game Session</summary>
+<img src="Screenshots/Game_Session_1.png" alt="Game Session 1" width="400" />
+<img src="Screenshots/Game_Session_2.png" alt="Game Session 2" width="400" />
+</details>
+
+<details>
+<summary> Name Validation</summary>
+<img src="Screenshots/Validation_1.png" alt="Validation 1" width="500" />
+<img src="Screenshots/Validation_2.png" alt="Validation 2" width="500" />
+</details>
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
 
