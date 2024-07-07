@@ -53,7 +53,7 @@ cd your-repo-name
 ```
 
 2. Install Jupyter Notebook: If you don't have Jupyter Notebook installed, you can install it using pip.
-```bash
+```python
 pip install notebook
 ```
 
