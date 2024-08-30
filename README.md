@@ -74,4 +74,4 @@ This game currently focuses on multiplication, but I have plans to add more mode
 
 ## License
 
-[MIT License] (LICENSE)
+[MIT License](LICENSE)
