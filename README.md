@@ -71,3 +71,7 @@ jupyter notebook
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
 
 This game currently focuses on multiplication, but I have plans to add more modes, including addition, subtraction, and other mathematical areas. Contributions towards these new features or improvements to the existing game are welcome.
+
+## License
+
+[MIT License] (LICENSE)
